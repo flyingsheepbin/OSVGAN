@@ -21,4 +21,4 @@ OSVGAN-Data-2021是一个国内社交用户的常用表情包数据集，主要�
 ## dataset for testing
 [OSVGAN-Data-2021-eval](https://github.com/flyingsheepbin/OSVGAN/blob/main/MemeGAN-2021-eval.rar)
 ## contact
-please contact lixiaorui@mail.ynu.edu.cn for any question.
+please contact lixiaorui@mail.ynu.edu.cn if you have any question.
