@@ -17,8 +17,8 @@ OSVGAN-Data-2021是一个国内社交用户的常用表情包数据集，主要�
 ![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/110_downbody.jpg)  ![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/110_lefthand.jpg)  ![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/110_righthand.jpg)&emsp;&emsp;![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/319_downbody.jpg)  ![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/319_lefthand.jpg)  ![Image text](https://github.com/flyingsheepbin/OSVGAN/blob/main/images/319_righthand.jpg)  
 &emsp;&emsp;&emsp;lower body&emsp;&emsp;&emsp;&emsp;left hand&emsp;&emsp;&emsp;right hand&emsp;&emsp;&emsp;&emsp;lower body&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;left hand&emsp;&emsp;&emsp;&emsp;right hand        
 ## dataset for training
-[OSVGAN-Data-2020](https://github.com/flyingsheepbin/OSVGAN/blob/main/MemeData-2020.rar)
+[OSVGAN-Data-2021](https://github.com/flyingsheepbin/OSVGAN/blob/main/MemeData-2021.rar)
 ## dataset for testing
-[OSVGAN-Data-2020-eval](https://github.com/flyingsheepbin/OSVGAN/blob/main/MemeGAN-2020-eval.rar)
+[OSVGAN-Data-2021-eval](https://github.com/flyingsheepbin/OSVGAN/blob/main/MemeGAN-2021-eval.rar)
 ## contact
 please contact lixiaorui@mail.ynu.edu.cn for any question.
